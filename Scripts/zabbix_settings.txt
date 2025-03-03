@@ -1,0 +1,12 @@
+#настройки для zabbix серверов
+#"версия" zabbix
+#настройки zabbix
+ZABBIX|Zabbix1
+zabbix_server|zbx.s25m.ru
+zabbix_port|10051
+timeout|100
+##############
+ZABBIX|Zabbix2
+zabbix_server|zbx.s25m.ru
+zabbix_port|10053
+timeout|100

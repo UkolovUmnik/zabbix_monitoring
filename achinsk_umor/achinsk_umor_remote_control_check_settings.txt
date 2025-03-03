@@ -1,0 +1,4 @@
+#на какой zabbix отправлять данные
+ZABBIX|Zabbix2
+#название узла в zabbix
+HOST|Achinsk_Umor

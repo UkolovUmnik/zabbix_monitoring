@@ -1,0 +1,15 @@
+ntp1.vniiftri.ru
+ntp2.vniiftri.ru
+ntp3.vniiftri.ru
+ntp4.vniiftri.ru
+ntp1.niiftri.irkutsk.ru
+vniiftri.khv.ru
+time.windows.com
+ntp0.ntp-servers.net
+ntp1.ntp-servers.net
+ntp2.ntp-servers.net
+ntp3.ntp-servers.net
+ntp4.ntp-servers.net
+ntp5.ntp-servers.net
+ntp6.ntp-servers.net
+ntp7.ntp-servers.net

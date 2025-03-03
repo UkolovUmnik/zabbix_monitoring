@@ -1,0 +1,4 @@
+#на какой zabbix отправлять данные
+ZABBIX|Zabbix1
+#название узла в zabbix
+HOST|ACHINSK_UMOR_S

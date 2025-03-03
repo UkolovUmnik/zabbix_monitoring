@@ -1,0 +1,6 @@
+anydesk_control_connections
+script_all
+script_for_control_hovering
+script_for_control_broadcast_records
+script_sync_time
+script_weather_check

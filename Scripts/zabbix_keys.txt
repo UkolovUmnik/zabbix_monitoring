@@ -1,0 +1,37 @@
+#ключи для параметров устройств (передатчиков, приемников и т.д.)
+PowerOutput:POUT
+Modulation:MOD
+Temperature:T
+PowerReflect:PREF
+LevelSound:LS
+ChanelRadio:RAD
+NominalPower:NMP
+#ключи для anydesk
+AD_status:ADS
+AD_number:ADN
+##############
+#ключи для программ
+#порядок записи "имя программы:имя программы для поиска:ключ для забикса"
+SoundEmpire:SES
+SELogger:SEL
+SELogger_SMI:SEL_SMI
+PlayerPro:PP
+Pira:PIRA
+DjinDDB:DJDDB
+Djin:DJ
+RadioLogger:RL
+Synadyn:SN
+SyncThing:ST
+##############
+#ключи для погоды
+Pogoda_Status:P
+Replace_Files:RF
+Data_of_weather:DW
+Creating_Files:CF
+##############
+#ключи для записей эфира
+records:BRS
+records_SMI:BRS_SMI
+##########
+#ключи для системного времени
+system_time:TSC

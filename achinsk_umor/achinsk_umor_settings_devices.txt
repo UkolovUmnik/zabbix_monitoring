@@ -1,0 +1,30 @@
+#настройки устройств
+#данные для корректировки значений (параметры и значения, на которые будут умножаться данные)
+HOST|ACHINSK_UMOR_S
+-------------
+SETTINGS_DEVICE
+IP|
+TYPE|
+MODE|
+VERSION|
+ZABBIX|
+--------------
+CHANGE_VALUES
+#PowerOutput|
+#Modulation|
+#Temperature|
+#############
+HOST|Achinsk_Umor_Sat
+-------------
+SETTINGS_DEVICE
+IP|192.168.1.111
+TYPE|satellite
+MODE|WEB
+VERSION|1_sat
+ZABBIX|Zabbix1
+--------------
+CHANGE_VALUES
+#PowerOutput|
+#Modulation|
+#Temperature|
+#############

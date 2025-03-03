@@ -1,0 +1,10 @@
+SoundEmpire:SEStudio
+SELogger:SELogger
+SELogger_SMI:SELogger
+PlayerPro:Player
+Pira:pira
+DjinDDB:ddb
+Djin:djin
+RadioLogger:RadioLogger
+Synadyn:Synadyn
+SyncThing:syncthing

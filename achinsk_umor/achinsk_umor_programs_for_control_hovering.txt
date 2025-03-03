@@ -1,0 +1,9 @@
+#на какой zabbix отправлять данные
+ZABBIX|Zabbix1
+#название узла в zabbix
+#тип программы|название программы|название для поиска программы в процессах|путь к файлу программы|путь к записям (если тип RECORD)|путь к конфигу программы
+HOST|ACHINSK_UMOR_S
+Broadcast|PlayerPro|PlayerPro|C:\Program Files (x86)\RADIO Studio Pro\RADIO Player Pro 2\Player.exe
+Monitoring|Pira|Pira|C:\Program Files (x86)\Pira.cz Silence Detector\piraside.exe
+Record|SELogger|SELogger|C:\SELogger\SELogger.exe|E:\RECORD\UMOR ACHINSK|C:\SELogger\SELogger.ini
+#########

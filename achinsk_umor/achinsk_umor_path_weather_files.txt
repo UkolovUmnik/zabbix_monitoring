@@ -1,0 +1,6 @@
+#узел в zabbix
+HOST|Achinsk_Umor
+#путь к папке с файлами погоды
+PATH|E:\- basa rolikov\Погода
+#в какой zabbix отправлять данные
+ZABBIX|Zabbix2
