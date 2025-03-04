@@ -1,7 +1,4 @@
 import psutil
-import os
-import sys
-import time
 from zabbix import data_to_metrics
     
 def get_programs_statuses_tuple(programs_settings_list,programs_names_for_search_dict):

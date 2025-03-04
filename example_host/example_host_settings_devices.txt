@@ -1,6 +1,6 @@
 #настройки устройств
 #данные для корректировки значений (параметры и значения, на которые будут умножаться данные)
-HOST|ACHINSK_UMOR_S
+HOST|Example_host
 -------------
 SETTINGS_DEVICE
 IP|
@@ -14,10 +14,10 @@ CHANGE_VALUES
 #Modulation|
 #Temperature|
 #############
-HOST|Achinsk_Umor_Sat
+HOST|Example_host
 -------------
 SETTINGS_DEVICE
-IP|192.168.1.111
+IP|1.1.1.1
 TYPE|satellite
 MODE|WEB
 VERSION|1_sat

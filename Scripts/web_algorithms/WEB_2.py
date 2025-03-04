@@ -2,8 +2,6 @@ from sys import argv
 import requests
 from bs4 import BeautifulSoup
 
-
-#ip_transmitter='192.168.1.252'
 ip_transmitter=argv[1]
 try:
     html=requests.get('http://'+ip_transmitter+'/')

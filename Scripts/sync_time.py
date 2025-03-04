@@ -1,12 +1,11 @@
 from os import system
-import subprocess
 try:
     import ntplib
 except:
     system("pip install ntplib")
     import ntplib
 import os
-from datetime import datetime, timezone
+from datetime import datetime
 import time
 from zabbix import data_to_metrics
 

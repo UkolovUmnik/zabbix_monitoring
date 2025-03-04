@@ -1,14 +1,8 @@
-from os import system
 from pyzabbix import ZabbixAPI, ZabbixMetric, ZabbixSender
-
 import socket
-import os, sys
-##import subprocess
-##import traceback
 
 
 def data_to_metrics(host, parametr, value, zabbix_keys_dict):
-    metrics = [] 
     try:
         key=zabbix_keys_dict.get(parametr)
     except Exception as ex:

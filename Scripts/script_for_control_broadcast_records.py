@@ -1,12 +1,10 @@
 from datetime import datetime
 import os
-import time
 import locale
 import json
 from zabbix import data_to_metrics
 import SELogger
 import RadioLogger
-import common_parts
 
 def get_month_name(num):
    lang_encoding=int(locale.getlocale()[1])
@@ -94,7 +92,6 @@ def main(zabbix_keys_dict,path_to_settings,scripts_directory,local_host):
 
    current_datetime = datetime.now()
    need_hour=str(current_datetime.hour)
-   current_day=str(current_datetime.day)
    number_weekday=current_datetime.weekday()
         
    if len(need_hour)==1:

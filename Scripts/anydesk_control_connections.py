@@ -4,7 +4,7 @@ from datetime import datetime
 import time
 from zabbix import data_to_metrics
 
-connections_history_file=r'C:\ProgramData\AnyDesk\connection_trace.txt'
+connections_history_file=r"C:\\ProgramData\AnyDesk\\connection_trace.txt"
 
 def delete_probels(line_elements):
     for element in line_elements:
